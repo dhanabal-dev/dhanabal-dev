@@ -72,7 +72,7 @@
 
 ### ⚡ Fun Fact
 
-I enjoy learning web development step by step and improving every day 🚀
+I enjoy learning web development step by step and improving every day 🚀   
 
 ---
 
